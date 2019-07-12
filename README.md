@@ -1,2 +1,2 @@
 # leetcode
-Some leetcode implmentations
+Some leetcode implementations
